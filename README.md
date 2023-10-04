@@ -1,8 +1,8 @@
 <div align="center">
    <img src="computer-engineer.png" alt="engineer" height="150"/>
 </div>
-<h1 align="center">React Frontend Developer 🍄</h1>
-<h3 align="center">Hi, I'm Esther Atanang</h3>
+<h1  color="blue" align="center">React Frontend Developer 🍄</h1>
+<h3 align="center">Hi!, I'm Esther Atanang, still working on my </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esther-atanang&label=Profile%20views&color=0e75b6&style=flat" alt="esther-atanang" /> </p>
 
@@ -15,6 +15,7 @@
 - 📫 How to reach me **estheratanang@gmail.com**
 
 - ⚡ Fun fact **I really love music, anime, kdramas, webtoons and manga**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

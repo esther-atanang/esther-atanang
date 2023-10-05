@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esther Atanang</h1>
+<h1 align="center">Hi, I'm Esther Atanang 👋</h1>
 <h3 align="center">I'm a React frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esther-atanang&label=Profile%20views&color=0e75b6&style=flat" alt="esther-atanang" /> </p>

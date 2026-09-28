@@ -1,27 +1,30 @@
 # Hi there 👋 I'm Esther Atanang
 
-### Full-Stack Developer | Frontend Enthusiast | Problem Solver
+### Backend Engineer | System Architecture Enthusiast | Problem Solver
 
-I'm passionate about building interactive, user-friendly web applications and exploring the intricacies of system design. With experience spanning from modern frontend frameworks to backend systems and DevOps, I love crafting solutions that make an impact.
+I'm passionate about designing scalable backend systems, building reliable APIs, and solving complex engineering problems. My focus is on creating robust services, optimizing system performance, and architecting software that can grow with real-world demands. With experience spanning backend development, system design, and modern web technologies, I enjoy turning ideas into dependable, efficient solutions.
+
+- Portfolio: [View my portfolio](https://portfolio-latest-472y.onrender.com/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** JavaScript • TypeScript • React • Next.js • React Native • HTML • CSS • Tailwind CSS  
-**Backend:** Python • FastAPI • Node.js • Express.js  
+**Frontend:** JavaScript • TypeScript • React • Next.js • HTML • CSS • Tailwind CSS  
+**Backend:** Python • FastAPI • Node.js • Express.js • REST APIs • WebSockets  
 **Databases:** PostgreSQL • MongoDB • MySQL • Redis  
+**System Design & Architecture:** API Design • Scalability • Distributed Systems • Microservices • Caching • Load Balancing • Performance Optimization  
 **Tools:** Git • Docker • Postman • Neovim • Linux • Terminal
 
 ---
 
 ## 🌟 Featured Projects
 
-### Full-Stack & Web Applications
+### Backend & Full-Stack Systems
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **Real-Time Note Editor** | Authenticated note management with collaborative editing, sharing, permissions, and WebSocket support | JavaScript, Node.js | [View Repo](https://github.com/esther-atanang/Real-Time-Note-Editor) |
+| **Real-Time Note Editor** | Authenticated note management with collaborative editing, sharing, permissions, and WebSocket support | JavaScript, Node.js | [View Repo](https://github.com/esther-atanang/real-time-note-editor) |
 | **Entertainment Web App** | Modern streaming platform interface with filtering and content browsing | JavaScript | [View Repo](https://github.com/esther-atanang/entertainment-web-app) |
 | **Dictionary Web App** | Full-featured dictionary application with search and definitions | JavaScript | [View Repo](https://github.com/esther-atanang/dictionary-web-app) |
 | **Astro Blogger** | Feature-rich blogging platform with Django backend | Python/Django | [View Repo](https://github.com/esther-atanang/Astro-blogger) |
@@ -64,31 +67,32 @@ I'm passionate about building interactive, user-friendly web applications and ex
 ## 📊 GitHub Stats
 
 ```
-41 repositories | Full-stack development | Open to collaboration
+41 repositories | Backend-focused development | System architecture enthusiast
 ```
 
 ---
 
 ## 🎯 What I'm Working On
 
-- Building scalable web applications
-- Exploring advanced TypeScript patterns
-- System design and backend optimization
-- DevOps and infrastructure automation
+- Designing scalable backend systems and APIs
+- Exploring system design, distributed architecture, and reliability
+- Building efficient data flows and service integrations
+- DevOps, infrastructure automation, and deployment optimization
 
 ---
 
 ## 💡 Notable Skills
 
-- **Frontend Development:** Component-based architecture, responsive design, state management
-- **Backend Development:** RESTful APIs, real-time WebSocket communication, database design
-- **System Engineering:** Shell scripting, process management, server configuration
-- **Problem Solving:** Algorithm implementation, performance optimization, debugging
+- **Backend Development:** RESTful APIs, real-time WebSocket communication, database design, service integration
+- **System Architecture:** Scalability, load balancing, caching, reliability, performance tuning
+- **System Engineering:** Shell scripting, process management, server configuration, deployment workflows
+- **Problem Solving:** Algorithm implementation, debugging, optimization, architecture trade-offs
 
 ---
 
 ## 🔗 Connect With Me
 
+- **Portfolio:** [View My Portfolio](https://portfolio-latest-472y.onrender.com/)
 - **GitHub:** [@esther-atanang](https://github.com/esther-atanang)
 - *Feel free to explore my repositories and collaborate on interesting projects!*
 
@@ -96,7 +100,7 @@ I'm passionate about building interactive, user-friendly web applications and ex
 
 ## 📚 Learning Journey
 
-I'm a continuous learner who started with ALX's software engineering program and have been expanding my skillset across the full spectrum of web development. Each project represents a step in my journey to mastery.
+I'm a continuous learner who started with ALX's software engineering program and have been expanding my skillset across the full spectrum of software engineering. My focus is now increasingly on backend systems, architecture, and building solutions that are not only functional but scalable, maintainable, and efficient.
 
 ---
 

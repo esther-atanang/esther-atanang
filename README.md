@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Esther Atanang
 
-### Backend Engineer | System Architecture Enthusiast | Problem Solver
+### Software Engineer | System Architecture Enthusiast | Problem Solver
 
 I'm passionate about designing scalable backend systems, building reliable APIs, and solving complex engineering problems. My focus is on creating robust services, optimizing system performance, and architecting software that can grow with real-world demands. With experience spanning backend development, system design, and modern web technologies, I enjoy turning ideas into dependable, efficient solutions.
 
@@ -10,8 +10,9 @@ I'm passionate about designing scalable backend systems, building reliable APIs,
 
 ## 🛠️ Tech Stack
 
-**Frontend:** JavaScript • TypeScript • React • Next.js • HTML • CSS • Tailwind CSS  
+
 **Backend:** Python • FastAPI • Node.js • Express.js • REST APIs • WebSockets  
+**Frontend:** JavaScript • TypeScript • React • Next.js • HTML • CSS • Tailwind CSS  
 **Databases:** PostgreSQL • MongoDB • MySQL • Redis  
 **System Design & Architecture:** API Design • Scalability • Distributed Systems • Microservices • Caching • Load Balancing • Performance Optimization  
 **Tools:** Git • Docker • Postman • Neovim • Linux • Terminal
@@ -27,7 +28,6 @@ I'm passionate about designing scalable backend systems, building reliable APIs,
 | **Real-Time Note Editor** | Authenticated note management with collaborative editing, sharing, permissions, and WebSocket support | JavaScript, Node.js | [View Repo](https://github.com/esther-atanang/real-time-note-editor) |
 | **Entertainment Web App** | Modern streaming platform interface with filtering and content browsing | JavaScript | [View Repo](https://github.com/esther-atanang/entertainment-web-app) |
 | **Dictionary Web App** | Full-featured dictionary application with search and definitions | JavaScript | [View Repo](https://github.com/esther-atanang/dictionary-web-app) |
-| **Astro Blogger** | Feature-rich blogging platform with Django backend | Python/Django | [View Repo](https://github.com/esther-atanang/Astro-blogger) |
 
 ### Interactive Games & Applications
 
@@ -36,7 +36,7 @@ I'm passionate about designing scalable backend systems, building reliable APIs,
 | **Hangman** | Word guessing game with category-based word bank | TypeScript | [View Repo](https://github.com/esther-atanang/Hangman) |
 | **TicTacToe** | Play against an unbeatable AI opponent | TypeScript | [View Repo](https://github.com/esther-atanang/TicTacToe) |
 | **Typing Test** | Real-time typing speed and accuracy measurement | TypeScript | [View Repo](https://github.com/esther-atanang/Typing-test) |
-| **Habit Tracker** | Build and track daily habits | JavaScript | [View Repo](https://github.com/esther-atanang/Habit-Tracker) |
+
 
 ### Backend & Systems
 

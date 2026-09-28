@@ -8,10 +8,10 @@ I'm passionate about building interactive, user-friendly web applications and ex
 
 ## 🛠️ Tech Stack
 
-**Frontend:** JavaScript • React • TypeScript • SCSS • CSS  
-**Backend:** Python (Django, Flask) • Node.js • JavaScript  
-**Systems:** Shell • System Engineering • DevOps  
-**Tools:** Git • Vim/Neovim • Terminal  
+**Frontend:** JavaScript • TypeScript • React • Next.js • React Native • HTML • CSS • Tailwind CSS  
+**Backend:** Python • FastAPI • Node.js • Express.js  
+**Databases:** PostgreSQL • MongoDB • MySQL • Redis  
+**Tools:** Git • Docker • Postman • Neovim • Linux • Terminal
 
 ---
 
